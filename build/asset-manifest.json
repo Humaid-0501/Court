@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/.github.io/Court/static/css/main.1adba427.chunk.css",
+    "main.js": "/.github.io/Court/static/js/main.dcd9886a.chunk.js",
+    "main.js.map": "/.github.io/Court/static/js/main.dcd9886a.chunk.js.map",
+    "runtime-main.js": "/.github.io/Court/static/js/runtime-main.32ec8b4e.js",
+    "runtime-main.js.map": "/.github.io/Court/static/js/runtime-main.32ec8b4e.js.map",
+    "static/css/2.de424728.chunk.css": "/.github.io/Court/static/css/2.de424728.chunk.css",
+    "static/js/2.f7289cce.chunk.js": "/.github.io/Court/static/js/2.f7289cce.chunk.js",
+    "static/js/2.f7289cce.chunk.js.map": "/.github.io/Court/static/js/2.f7289cce.chunk.js.map",
+    "index.html": "/.github.io/Court/index.html",
+    "precache-manifest.15244aa19734c22742479ab8ce3bdcbf.js": "/.github.io/Court/precache-manifest.15244aa19734c22742479ab8ce3bdcbf.js",
+    "service-worker.js": "/.github.io/Court/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/.github.io/Court/static/css/2.de424728.chunk.css.map",
+    "static/css/main.1adba427.chunk.css.map": "/.github.io/Court/static/css/main.1adba427.chunk.css.map",
+    "static/js/2.f7289cce.chunk.js.LICENSE.txt": "/.github.io/Court/static/js/2.f7289cce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32ec8b4e.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.f7289cce.chunk.js",
+    "static/css/main.1adba427.chunk.css",
+    "static/js/main.dcd9886a.chunk.js"
+  ]
+}
