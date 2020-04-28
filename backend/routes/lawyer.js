@@ -1,8 +1,6 @@
 var express = require('express');
 var router = express.Router();
 
-var express = require('express');
-var router = express.Router();
  
 // Require our controllers.
 var lawyer_controller = require('../controllers/lawyerController');
