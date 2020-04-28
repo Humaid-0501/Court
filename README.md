@@ -1,6 +1,6 @@
 
 <b>In terminal #1: </b><br>
-git clone https://github.com/abhishektadkod/Court.git<br>
+git clone https://github.com/Humaid-0501/Court.git<br>
 cd Court<br>
 npm install<br>
 npm run<br><br>
